@@ -1,0 +1,64 @@
+body {
+    font-size: 15pt; 
+    background-color: bisque
+}
+h1{
+  color: red;
+  text-align: center
+  
+}
+input[type="submit"]{
+  background-color: indianred;
+  color: whitesmoke;
+  padding: 10px;
+  border-radius: 4px;
+}
+h4{
+  text-align: center
+   font-size:bold;
+}
+h2{
+  text-align: center;
+  background-color: deepskyblue
+}
+nav a{
+  text-decoration: none;
+  color:White;
+  padding:20px;
+  
+}
+nav{
+  background-color: deepskyblue
+}
+footer{
+  text-decoration: none;
+  color:white
+  padding:20px;
+  background-color:deepskyblue;
+  
+}
+.container{
+  display: flex;
+  border:50px;
+  width:100px;
+}
+.item{
+  margin:40px;
+  padding: 20px;
+  border: auto bold 5px;
+}
+.box{
+  margin:50px;
+}
+.model{
+  display: flex;
+  margin: 5px;
+ column-gap: 20px;
+}
+.bubble{
+  display: column;
+}
+h3{
+  text-align:center;
+  
+}
